@@ -1,8 +1,10 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# hashgraph/hedera-mirror-node-explorer
+# Hedera Mirror Node Explorer
 
-Visual Explorer for the Hedera Hashgraph DLT.
+Customization of the official Visual Explorer for the Hedera Hashgraph DLT.
+
+**Live version at [https://internetofpeers.org/hedera-explorer](https://internetofpeers.org/hedera-explorer)**
 
 ## Project setup
 
