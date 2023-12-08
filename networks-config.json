@@ -3,18 +3,39 @@
     "name": "mainnet",
     "displayName": "MAINNET",
     "url": "https://mainnet-public.mirrornode.hedera.com/",
-    "ledgerID": "00"
+    "ledgerID": "00",
+    "sourcifySetup": {
+      "activate": true,
+      "repoURL": "http://localhost:10000/contracts/",
+      "serverURL": "http://localhost:5002/",
+      "verifierURL": "http://localhost:3000/#/",
+      "chainID": 295
+    }
   },
   {
     "name": "testnet",
     "displayName": "TESTNET",
     "url": "https://testnet.mirrornode.hedera.com/",
-    "ledgerID": "01"
+    "ledgerID": "01",
+    "sourcifySetup": {
+      "activate": true,
+      "repoURL": "http://localhost:10000/contracts/",
+      "serverURL": "http://localhost:5002/",
+      "verifierURL": "http://localhost:3000/#/",
+      "chainID": 296
+    }
   },
   {
     "name": "previewnet",
     "displayName": "PREVIEWNET",
     "url": "https://previewnet.mirrornode.hedera.com/",
-    "ledgerID": "02"
+    "ledgerID": "02",
+    "sourcifySetup": {
+      "activate": true,
+      "repoURL": "http://localhost:10000/contracts/",
+      "serverURL": "http://localhost:5002/",
+      "verifierURL": "http://localhost:3000/#/",
+      "chainID": 297
+    }
   }
 ]
